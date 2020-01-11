@@ -85,9 +85,6 @@ Maturity items are in 4 categories. You can see all of the items below.
 {% include_relative catalog/environment/E010.md %}
 
 ---
-{% include_relative catalog/environment/E011.md %}
-
----
 {% include_relative catalog/environment/E012.md %}
 
 ---
