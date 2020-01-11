@@ -33,8 +33,8 @@ Here are the maturity levels. This is what we use as maturity levels and you may
 |**[B005]({{ site.baseurl }}{% link catalog/build_ci/B005.md%})**| Actively Use Available Analysis Tools On New Code As Submit Gate (50% of sonar-way, Incremental, Zero Issue).|
 |**[T012]({{ site.baseurl }}{% link catalog/test/T012.md%})**| Acceptance Tests For Each New Feature.|
 |**[T013]({{ site.baseurl }}{% link catalog/test/T013.md%})**| Functional Requirement - Acceptance Test Mapping > 5%. |
-|**[E002]({{ site.baseurl }}{% link catalog/environment/E002.md%})**| Automated Deployment Of The Application From Scratch. |
-|**[E003]({{ site.baseurl }}{% link catalog/environment/E003.md%})**| Automated Upgrade Of The Application. |
+|**[E002]({{ site.baseurl }}{% link catalog/environment/E002.md%})**| Automated Application Deployment From Scratch. |
+|**[E003]({{ site.baseurl }}{% link catalog/environment/E003.md%})**| Automated Application Upgrade. 
 |**[E013]({{ site.baseurl }}{% link catalog/environment/E013.md%})**| All Configuration In Version Control & All Production Cofigs From Version Control. |
 |**[E006]({{ site.baseurl }}{% link catalog/environment/E006.md%})**| Data Is Migrated Using Versioned Script Only.|
 |**[D002]({{ site.baseurl }}{% link catalog/delivery/D002.md%})**| Deployment Frequency is Once Per Week. |
@@ -68,4 +68,4 @@ Here are the maturity levels. This is what we use as maturity levels and you may
 |**[D004]({{ site.baseurl }}{% link catalog/delivery/D004.md%})**| Deployment Frequency Is On-Demand (Multiple Deploy Per Day). |
 |**[D008]({{ site.baseurl }}{% link catalog/delivery/D008.md%})**| Lead Time For Changes Is Less Than One Hour. |
 |**[D012]({{ site.baseurl }}{% link catalog/delivery/D012.md%})**| Time To Restore Service Is Less Than One Hour. |
-|**[E009]({{ site.baseurl }}{% link catalog/environment/E009.md%})**| Data Migration Could Be Rolled Back Automatically. |
+|**[E009]({{ site.baseurl }}{% link catalog/environment/E009.md%})**| Ability To Automatic Data Migration Roll Back. |
