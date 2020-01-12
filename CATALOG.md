@@ -99,9 +99,6 @@ Maturity items are in 4 categories. You can see all of the items below.
 {% include_relative catalog/build_ci/B002.md %}
 
 ---
-{% include_relative catalog/build_ci/B003.md %}
-
----
 {% include_relative catalog/build_ci/B004.md %}
 
 ---
