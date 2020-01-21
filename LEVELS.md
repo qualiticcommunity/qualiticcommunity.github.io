@@ -21,9 +21,9 @@ Here are the maturity levels. This is what we use as maturity levels and you may
 |**[B004]({{ site.baseurl }}{% link catalog/build_ci/B004.md%})**| Prevent Compiler Warning Automatically.|
 |**[E001]({{ site.baseurl }}{% link catalog/environment/E001.md%})**| All External Dependencies For The Application Are Specified In Version Control And Managed With Tools/Scripts In Source Control. |
 |**[E012]({{ site.baseurl }}{% link catalog/environment/E012.md%})**| Do Not Store Your Secrets in Your Version Control. |
-|**[D001]({{ site.baseurl }}{% link catalog/delivery/D001.md%})**|Deployment Frequency is Once Per Month. |
-|**[D005]({{ site.baseurl }}{% link catalog/delivery/D005.md%})**| Lead Time for Changes is Less Than Six Months.|
-|**[D009]({{ site.baseurl }}{% link catalog/delivery/D009.md%})**| Time to Restore Service is Less Than One Month.|
+|**[D001]({{ site.baseurl }}{% link catalog/delivery/D001.md%})**| Deployment Frequency is Once A Month. |
+|**[D005]({{ site.baseurl }}{% link catalog/delivery/D005.md%})**| Lead Time for Changes Is Less Than Six Months.|
+|**[D009]({{ site.baseurl }}{% link catalog/delivery/D009.md%})**| Time to Restore Service Is Less Than One Month.|
 |**[D013]({{ site.baseurl }}{% link catalog/delivery/D013.md%})**| Change Failure Rate Less Than 60 Percent.|
 
 ## Level 3
@@ -37,10 +37,10 @@ Here are the maturity levels. This is what we use as maturity levels and you may
 |**[E003]({{ site.baseurl }}{% link catalog/environment/E003.md%})**| Automated Application Upgrade. 
 |**[E013]({{ site.baseurl }}{% link catalog/environment/E013.md%})**| All Configuration In Version Control & All Production Cofigs From Version Control. |
 |**[E006]({{ site.baseurl }}{% link catalog/environment/E006.md%})**| Data Is Migrated Using Versioned Script Only.|
-|**[D002]({{ site.baseurl }}{% link catalog/delivery/D002.md%})**| Deployment Frequency is Once Per Week. |
-|**[D006]({{ site.baseurl }}{% link catalog/delivery/D006.md%})**| Lead Time for Changes is Less Than One Month. |
-|**[D010]({{ site.baseurl }}{% link catalog/delivery/D010.md%})**| Time to Restore Service is Less Than One Week. |
-|**[D014]({{ site.baseurl }}{% link catalog/delivery/D014.md%})**| Change Failure Rate Is Less Than 45 Percent. |
+|**[D002]({{ site.baseurl }}{% link catalog/delivery/D002.md%})**| Deployment Frequency Is Once A Week. |
+|**[D006]({{ site.baseurl }}{% link catalog/delivery/D006.md%})**| Lead Time for Changes Is Less Than One Month. |
+|**[D010]({{ site.baseurl }}{% link catalog/delivery/D010.md%})**| Time to Restore Service Is Less Than One Week. |
+|**[D014]({{ site.baseurl }}{% link catalog/delivery/D014.md%})**| Change Failure Rate Less Than 45 Percent. |
 |**[E010]({{ site.baseurl }}{% link catalog/environment/E010.md%})**| Same Process (scripts) To Deploy To Every Environment. |
 
 ## Level 4
@@ -53,10 +53,10 @@ Here are the maturity levels. This is what we use as maturity levels and you may
 |**[E004]({{ site.baseurl }}{% link catalog/environment/E004.md%})**| Automated Infrastructure Provisioning From Scratch. |
 |**[E007]({{ site.baseurl }}{% link catalog/environment/E007.md%})**| Automated Data Migration While Deploying. |
 |**[E005]({{ site.baseurl }}{% link catalog/environment/E005.md%})**| Automated Infrastructure Upgrade. |
-|**[D003]({{ site.baseurl }}{% link catalog/delivery/D003.md%})**| Deployment Frequency Is Once Per Day. |
-|**[D007]({{ site.baseurl }}{% link catalog/delivery/D007.md%})**| Lead Time For Changes Is Less Than One Day. |
+|**[D003]({{ site.baseurl }}{% link catalog/delivery/D003.md%})**| Deployment Frequency Is Once A Day. |
+|**[D007]({{ site.baseurl }}{% link catalog/delivery/D007.md%})**| Lead Time For Changes Is Less Than One Week. |
 |**[D011]({{ site.baseurl }}{% link catalog/delivery/D011.md%})**| Time To Restore Service Is Less Than One Day. |
-|**[D015]({{ site.baseurl }}{% link catalog/delivery/D015.md%})**| Change Failure Rate Is Less Than 15 Percent. |
+|**[D015]({{ site.baseurl }}{% link catalog/delivery/D015.md%})**| Change Failure Rate Less Than 15 Percent. |
 
 
 
