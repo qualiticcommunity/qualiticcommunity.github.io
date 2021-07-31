@@ -19,7 +19,7 @@ Here are the maturity levels. This is what we use as maturity levels and you may
 |**[T011]({{ site.baseurl }}{% link catalog/test/T011.md%})**| Acceptance Tests For at Least One Feature Upon Main Use Cases (Fully Automated in CI Script). |
 |**[B002]({{ site.baseurl }}{% link catalog/build_ci/B002.md%})**| Automated Code Style Checking. |
 |**[B004]({{ site.baseurl }}{% link catalog/build_ci/B004.md%})**| Prevent Compiler Warning Automatically.|
-|**[E001]({{ site.baseurl }}{% link catalog/environment/E001.md%})**| All External Dependencies For The Application Are Specified In Version Control And Managed With Tools/Scripts In Source Control. |
+|**[E001]({{ site.baseurl }}{% link catalog/environment/E001.md%})**| All Direct External Dependencies for The Software Product Are Specified using Fixed Versions in Version Control and also Managed with Tools/Scripts in Version Control. |
 |**[E012]({{ site.baseurl }}{% link catalog/environment/E012.md%})**| Do Not Store Your Secrets in Your Version Control. |
 |**[D001]({{ site.baseurl }}{% link catalog/delivery/D001.md%})**|Deployment Frequency is Once Per Month. |
 |**[D005]({{ site.baseurl }}{% link catalog/delivery/D005.md%})**| Lead Time for Changes is Less Than Six Months.|
@@ -53,6 +53,7 @@ Here are the maturity levels. This is what we use as maturity levels and you may
 |**[E004]({{ site.baseurl }}{% link catalog/environment/E004.md%})**| Automated Infrastructure Provisioning From Scratch. |
 |**[E007]({{ site.baseurl }}{% link catalog/environment/E007.md%})**| Automated Data Migration While Deploying. |
 |**[E005]({{ site.baseurl }}{% link catalog/environment/E005.md%})**| Automated Infrastructure Upgrade. |
+|**[E014]({{ site.baseurl }}{% link catalog/environment/E014.md%})**| All Transitive Dependency Versions of Direct External Dependencies (related to item E001) Should be Defined. |
 |**[D003]({{ site.baseurl }}{% link catalog/delivery/D003.md%})**| Deployment Frequency Is Once Per Day. |
 |**[D007]({{ site.baseurl }}{% link catalog/delivery/D007.md%})**| Lead Time For Changes Is Less Than One Day. |
 |**[D011]({{ site.baseurl }}{% link catalog/delivery/D011.md%})**| Time To Restore Service Is Less Than One Day. |
