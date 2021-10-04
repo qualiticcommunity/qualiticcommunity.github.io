@@ -32,7 +32,7 @@ Here are the maturity levels. This is what we use as maturity levels and you may
 |**[T003]({{ site.baseurl }}{% link catalog/test/T003.md%})**| Commit Stage Test Coverage > 50%. |
 |**[B005]({{ site.baseurl }}{% link catalog/build_ci/B005.md%})**| Actively Use Available Analysis Tools On New Code As Submit Gate (50% of sonar-way, Incremental, Zero Issue).|
 |**[T012]({{ site.baseurl }}{% link catalog/test/T012.md%})**| Acceptance Tests For Each New Feature.|
-|**[T013]({{ site.baseurl }}{% link catalog/test/T013.md%})**| Functional Requirement - Acceptance Test Mapping > 5%. |
+|**[T013]({{ site.baseurl }}{% link catalog/test/T013.md%})**| Requirement - Acceptance Test Mapping > 5%. |
 |**[E002]({{ site.baseurl }}{% link catalog/environment/E002.md%})**| Automated Application Deployment From Scratch. |
 |**[E003]({{ site.baseurl }}{% link catalog/environment/E003.md%})**| Automated Application Upgrade. 
 |**[E013]({{ site.baseurl }}{% link catalog/environment/E013.md%})**| All Configuration In Version Control & All Production Cofigs From Version Control. |
@@ -47,7 +47,7 @@ Here are the maturity levels. This is what we use as maturity levels and you may
 
 |**Items**          | **Description** |
 |**[T004]({{ site.baseurl }}{% link catalog/test/T004.md%})**| Commit Stage Test Coverage > 60%. |
-|**[T014]({{ site.baseurl }}{% link catalog/test/T014.md%})**| Functional Requirement - Acceptance Test Mapping > 20%. |
+|**[T014]({{ site.baseurl }}{% link catalog/test/T014.md%})**| Requirement - Acceptance Test Mapping > 20%. |
 |**[B006]({{ site.baseurl }}{% link catalog/build_ci/B006.md%})**| Actively Use Available Analysis Tools (80% sonar-way). |
 |**[B007]({{ site.baseurl }}{% link catalog/build_ci/B007.md%})**| Build Environment Can Be Automatically Created From Version Control. |
 |**[E004]({{ site.baseurl }}{% link catalog/environment/E004.md%})**| Automated Infrastructure Provisioning From Scratch. |
@@ -64,7 +64,7 @@ Here are the maturity levels. This is what we use as maturity levels and you may
 ## Level 5
 
 |**Items**          | **Description** |
-|**[T015]({{ site.baseurl }}{% link catalog/test/T015.md%})**| Functional Requirement - Acceptance Test Mapping > 50%. |
+|**[T015]({{ site.baseurl }}{% link catalog/test/T015.md%})**| Requirement - Acceptance Test Mapping > 50%. |
 |**[E008]({{ site.baseurl }}{% link catalog/environment/E008.md%})**| Data Migration Is Tested. |
 |**[D004]({{ site.baseurl }}{% link catalog/delivery/D004.md%})**| Deployment Frequency Is On-Demand (Multiple Deploy Per Day). |
 |**[D008]({{ site.baseurl }}{% link catalog/delivery/D008.md%})**| Lead Time For Changes Is Less Than One Hour. |
