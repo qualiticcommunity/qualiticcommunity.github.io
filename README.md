@@ -4,7 +4,7 @@ Qualitic is about developing successful quality software.
 
 ## Introduction
 
-We are committed to sharing artifacts, procedures and best practices to each other.
+We are committed to sharing artifacts, procedures, and best practices with each other.
 
 ## Maturity Model
 
