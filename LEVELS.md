@@ -17,8 +17,8 @@ Here are the maturity levels. This is what we use as maturity levels and you may
 |**[T002]({{ site.baseurl }}{% link catalog/test/T002.md%})**| Commit Stage Test Coverage > 10% (At Least Daily). |
 |**[T007]({{ site.baseurl }}{% link catalog/test/T007.md%})**| Classify Tests as Commit, Acceptance and (Performance).|
 |**[T011]({{ site.baseurl }}{% link catalog/test/T011.md%})**| Acceptance Tests For at Least One Feature Upon Main Use Cases (Fully Automated in CI Script). |
-|**[B002]({{ site.baseurl }}{% link catalog/build_ci/B002.md%})**| Automated Code Style Checking. |
-|**[B004]({{ site.baseurl }}{% link catalog/build_ci/B004.md%})**| Prevent Compiler Warning Automatically.|
+|**[B002]({{ site.baseurl }}{% link catalog/build_ci/B002.md%})**| Select and Enforce Code Style for Main Programming Languages. |
+|**[B004]({{ site.baseurl }}{% link catalog/build_ci/B004.md%})**| Prevent Compiler Warning.|
 |**[E001]({{ site.baseurl }}{% link catalog/environment/E001.md%})**| All Direct External Dependencies for The Software Product Are Specified using Fixed Versions in Version Control and also Managed with Tools/Scripts in Version Control. |
 |**[E012]({{ site.baseurl }}{% link catalog/environment/E012.md%})**| Do Not Store Your Secrets in Your Version Control. |
 |**[D001]({{ site.baseurl }}{% link catalog/delivery/D001.md%})**|Deployment Frequency is Once Per Month. |
