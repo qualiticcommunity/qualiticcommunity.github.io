@@ -14,4 +14,4 @@ You can see [Qualitic Maturity Model]({{ site.baseurl }}{% link MATURITY_MODEL.m
 
 ## Contribution
 
-You can contribute to [Qualitic Community](https://github.com/qualiticcommunity) projects on Github.
+You can contribute to [Qualitic Community](https://github.com/qualiticcommunity) projects on GitHub.
