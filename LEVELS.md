@@ -69,4 +69,4 @@ Here are the maturity levels. This is what we use as maturity levels and you may
 |**[D004]({{ site.baseurl }}{% link catalog/delivery/D004.md%})**| Deployment Frequency Is On-Demand (Multiple Deploy Per Day). |
 |**[D008]({{ site.baseurl }}{% link catalog/delivery/D008.md%})**| Lead Time For Changes Is Less Than One Hour. |
 |**[D012]({{ site.baseurl }}{% link catalog/delivery/D012.md%})**| Time To Restore Service Is Less Than One Hour. |
-|**[E009]({{ site.baseurl }}{% link catalog/environment/E009.md%})**| Ability To Automatic Data Migration Roll Back. |
+|**[E009]({{ site.baseurl }}{% link catalog/environment/E009.md%})**| Ability To Automatic Data Migration Rollback. |
