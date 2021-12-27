@@ -19,3 +19,4 @@ TODO
 qTest
 PractiTest
 TestLink
+dockerize
