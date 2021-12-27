@@ -35,7 +35,7 @@ Here are the maturity levels. This is what we use as maturity levels and you may
 |**[T013]({{ site.baseurl }}{% link catalog/test/T013.md%})**| Requirement - Acceptance Test Mapping > 5%. |
 |**[E002]({{ site.baseurl }}{% link catalog/environment/E002.md%})**| Automated Application Deployment From Scratch. |
 |**[E003]({{ site.baseurl }}{% link catalog/environment/E003.md%})**| Automated Application Upgrade. 
-|**[E013]({{ site.baseurl }}{% link catalog/environment/E013.md%})**| All Configuration In Version Control & All Production Cofigs From Version Control. |
+|**[E013]({{ site.baseurl }}{% link catalog/environment/E013.md%})**| All Configuration In Version Control & All Production Configs From Version Control. |
 |**[E006]({{ site.baseurl }}{% link catalog/environment/E006.md%})**| Data Is Migrated Using Versioned Script Only.|
 |**[D002]({{ site.baseurl }}{% link catalog/delivery/D002.md%})**| Deployment Frequency is Once Per Week. |
 |**[D006]({{ site.baseurl }}{% link catalog/delivery/D006.md%})**| Lead Time for Changes is Less Than One Month. |

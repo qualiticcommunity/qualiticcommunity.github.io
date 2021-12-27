@@ -1,0 +1,37 @@
+matrix:
+  - name: Markdown
+    aspell:
+      lang: en
+      ignore-case: true
+    dictionary:
+      wordlists:
+        - .spellcheck/extra-words.txt
+      encoding: utf-8
+    pipeline:
+      - pyspelling.filters.markdown:
+      - pyspelling.filters.html:
+      - pyspelling.filters.context:
+          context_visible_first: true
+          escapes: '\\[\\`~]'
+          delimiters:
+            # Ignore multiline content between fences (fences can have 3 or more back ticks)
+            # ```
+            # content
+            # ```
+            - open: "(?s)^(?P<open> *`{3,})$"
+              close: "^(?P=open)$"
+            # Ignore content between inline back ticks
+            # ```content```
+            - open: "(?P<open>`+)"
+              close: "(?P=open)"
+            # Ignore jinja2 syntax
+            # {% content %}
+            - open: "\\{\\%"
+              close: "\\%\\}"
+            # Ignore jinja2 syntax
+            # {::content}
+            - open: "\\{\\:\\:"
+              close: "\\}"
+    sources:
+      - "**/*.md|!_site/**/*"
+    default_encoding: utf-8
