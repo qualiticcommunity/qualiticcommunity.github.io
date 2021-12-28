@@ -3,6 +3,6 @@
 |**Code**           | **Code** |
 |**Title**          | |
 |**Description**    | |
-|**Best Practices** | |
+|**Possible Implementations** | |
 |**Evaluation**     | |
 |**Applied stage**  | |
