@@ -23,9 +23,9 @@ This pipeline consists of five steps.
 ## Maturity Items
 
 Achieving each maturity item helps to improve the quality of the product.
-You can see the catalog of maturity items [here]({{ site.baseurl }}{% link CATALOG.md%}).
+You can see the catalog of maturity items [here](CATALOG.md).
 
 ## Maturity Levels
 
 Each maturity level consists of some maturity items.
-You can see maturity levels [here]({{ site.baseurl }}{% link LEVELS.md%}).
+You can see maturity levels [here](LEVELS.md).
