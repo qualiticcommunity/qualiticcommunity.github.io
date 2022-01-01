@@ -1,0 +1,17 @@
+name: Jekyll Build
+on:
+  pull_request:
+    branches:
+      - master
+jobs:
+  build:
+    name: Make sure Jekyll can build
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/jekyll-build-pages@v1-beta
+        with:
+          source: .
+          destination: ./_site
+          future: true
+          verbose: true
