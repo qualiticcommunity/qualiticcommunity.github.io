@@ -5,6 +5,7 @@ Here are the maturity levels. This is what we use as maturity levels and you may
 ## Level 1
 
 |**Items**          | **Description** |
+| :--               | :--             |
 |**[T001](catalog/test/T001.md)**| Measure Test Coverage On Commit Stage. |
 |**[T005](catalog/test/T005.md)**| Incremental Commit Stage Test Coverage > 10%. |
 |**[B001](catalog/build_ci/B001.md)**| All CI/CD scripts are in VC (CI Config in Code). |
@@ -13,6 +14,7 @@ Here are the maturity levels. This is what we use as maturity levels and you may
 ## Level 2
 
 |**Items**          | **Description** |
+| :--               | :--             |
 |**[T006](catalog/test/T006.md)**| Incremental Commit Stage Test Coverage > 50%. |
 |**[T002](catalog/test/T002.md)**| Commit Stage Test Coverage > 10% (At Least Daily). |
 |**[T007](catalog/test/T007.md)**| Classify Tests as Commit, Acceptance and (Performance).|
@@ -29,6 +31,7 @@ Here are the maturity levels. This is what we use as maturity levels and you may
 ## Level 3
 
 |**Items**          | **Description** |
+| :--               | :--             |
 |**[T003](catalog/test/T003.md)**| Commit Stage Test Coverage > 50%. |
 |**[B005](catalog/build_ci/B005.md)**| Actively Use Available Analysis Tools On New Code As Submit Gate (50% of sonar-way, Incremental, Zero Issue).|
 |**[T012](catalog/test/T012.md)**| Acceptance Tests For Each New Feature.|
@@ -46,6 +49,7 @@ Here are the maturity levels. This is what we use as maturity levels and you may
 ## Level 4
 
 |**Items**          | **Description** |
+| :--               | :--             |
 |**[T004](catalog/test/T004.md)**| Commit Stage Test Coverage > 60%. |
 |**[T014](catalog/test/T014.md)**| Requirement - Acceptance Test Mapping > 20%. |
 |**[B006](catalog/build_ci/B006.md)**| Actively Use Available Analysis Tools (80% sonar-way). |
@@ -64,6 +68,7 @@ Here are the maturity levels. This is what we use as maturity levels and you may
 ## Level 5
 
 |**Items**          | **Description** |
+| :--               | :--             |
 |**[T015](catalog/test/T015.md)**| Requirement - Acceptance Test Mapping > 50%. |
 |**[E008](catalog/environment/E008.md)**| Data Migration Is Tested. |
 |**[D004](catalog/delivery/D004.md)**| Deployment Frequency Is On-Demand (Multiple Deploy Per Day). |

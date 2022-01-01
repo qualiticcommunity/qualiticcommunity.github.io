@@ -7,6 +7,7 @@ Tracking test-requirements mapping is needed so you can see weather a requiremen
 One of the simplest way of test requirement mapping is using a table such as this:
 
 |**Requirements**| **Implementation status** | **Related Tests** | **Covered** |
+| :--            | :--                       | :--               | :--         |
 | R001 | State(TODO, Doing, Done) | Tests (T1, T5, T9) | True|
 | R002 | State(TODO, Doing, Done) | Tests (T1, T12) | False|
 | ... | ... | ... | ... |
