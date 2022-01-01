@@ -54,6 +54,7 @@ Here are the maturity levels. This is what we use as maturity levels and you may
 |**[T014](catalog/test/T014.md)**| Requirement - Acceptance Test Mapping > 20%. |
 |**[B006](catalog/build_ci/B006.md)**| Actively Use Available Analysis Tools (80% sonar-way). |
 |**[B007](catalog/build_ci/B007.md)**| Build Environment Can Be Automatically Created From Version Control. |
+|**[B008](catalog/build_ci/B008.md)**| CI/CD agents installation and config should be in version control. |
 |**[E004](catalog/environment/E004.md)**| Automated Infrastructure Provisioning From Scratch. |
 |**[E007](catalog/environment/E007.md)**| Automated Data Migration While Deploying. |
 |**[E005](catalog/environment/E005.md)**| Automated Infrastructure Upgrade. |
