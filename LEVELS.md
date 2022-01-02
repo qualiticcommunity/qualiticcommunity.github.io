@@ -37,7 +37,7 @@ Here are the maturity levels. This is what we use as maturity levels and you may
 |**[T012](catalog/test/T012.md)**| Acceptance Tests For Each New Feature.|
 |**[T013](catalog/test/T013.md)**| Requirement - Acceptance Test Mapping > 5%. |
 |**[E002](catalog/environment/E002.md)**| Automated Application Deployment From Scratch. |
-|**[E003](catalog/environment/E003.md)**| Automated Application Upgrade. 
+|**[E003](catalog/environment/E003.md)**| Automated Application Upgrade. |
 |**[E013](catalog/environment/E013.md)**| All Configuration In Version Control & All Production Configs From Version Control. |
 |**[E006](catalog/environment/E006.md)**| Data Is Migrated Using Versioned Script Only.|
 |**[D002](catalog/delivery/D002.md)**| Deployment Frequency is Once Per Week. |
@@ -63,8 +63,6 @@ Here are the maturity levels. This is what we use as maturity levels and you may
 |**[D007](catalog/delivery/D007.md)**| Lead Time For Changes Is Less Than One Day. |
 |**[D011](catalog/delivery/D011.md)**| Time To Restore Service Is Less Than One Day. |
 |**[D015](catalog/delivery/D015.md)**| Change Failure Rate Is Less Than 15 Percent. |
-
-
 
 ## Level 5
 
