@@ -37,7 +37,7 @@ Here are the maturity levels. This is what we use as maturity levels and you may
 |**[T012](catalog/test/T012.md)**| Acceptance Tests For Each New Feature.|
 |**[T013](catalog/test/T013.md)**| Requirement - Acceptance Test Mapping > 5%. |
 |**[E002](catalog/environment/E002.md)**| Automated Application Deployment From Scratch. |
-|**[E003](catalog/environment/E003.md)**| Automated Application Upgrade. 
+|**[E003](catalog/environment/E003.md)**| Automated Application Upgrade. |
 |**[E013](catalog/environment/E013.md)**| All Configuration In Version Control & All Production Configs From Version Control. |
 |**[E006](catalog/environment/E006.md)**| Data Is Migrated Using Versioned Script Only.|
 |**[D002](catalog/delivery/D002.md)**| Deployment Frequency is Once Per Week. |
@@ -54,6 +54,7 @@ Here are the maturity levels. This is what we use as maturity levels and you may
 |**[T014](catalog/test/T014.md)**| Requirement - Acceptance Test Mapping > 20%. |
 |**[B006](catalog/build_ci/B006.md)**| Actively Use Available Analysis Tools (80% sonar-way). |
 |**[B007](catalog/build_ci/B007.md)**| Build Environment Can Be Automatically Created From Version Control. |
+|**[B008](catalog/build_ci/B008.md)**| CI/CD agents installation and config should be in version control. |
 |**[E004](catalog/environment/E004.md)**| Automated Infrastructure Provisioning From Scratch. |
 |**[E007](catalog/environment/E007.md)**| Automated Data Migration While Deploying. |
 |**[E005](catalog/environment/E005.md)**| Automated Infrastructure Upgrade. |
@@ -62,8 +63,6 @@ Here are the maturity levels. This is what we use as maturity levels and you may
 |**[D007](catalog/delivery/D007.md)**| Lead Time For Changes Is Less Than One Day. |
 |**[D011](catalog/delivery/D011.md)**| Time To Restore Service Is Less Than One Day. |
 |**[D015](catalog/delivery/D015.md)**| Change Failure Rate Is Less Than 15 Percent. |
-
-
 
 ## Level 5
 
