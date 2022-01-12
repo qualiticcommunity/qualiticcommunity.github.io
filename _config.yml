@@ -1,5 +1,8 @@
+url: "https://maturity.qualitic.ir"
+
 plugins:
   - jekyll-relative-links
+  - jekyll-sitemap
 
 relative_links:
   enabled:     true
