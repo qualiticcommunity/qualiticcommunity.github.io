@@ -1,0 +1,7 @@
+_config.yml
+.gitignore
+*.md
+CNAME
+Gemfile
+Gemfile.lock
+dictionary.dic
