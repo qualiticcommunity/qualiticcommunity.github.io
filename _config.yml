@@ -1,10 +1,13 @@
-url: "https://maturity.qualitic.ir"
-
 plugins:
   - jekyll-relative-links
   - jekyll-sitemap
 
-relative_links:
-  enabled:     true
-  collections: false
-theme: jekyll-theme-cayman
+remote_theme: chrisrhymes/bulma-clean-theme@72f7a305a1914c583bdcb9968d0051aa980b7aa0
+
+title: ""
+defaults:
+  -
+    scope:
+          path: ""
+    values:    
+      menubar_toc: true
