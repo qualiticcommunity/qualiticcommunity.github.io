@@ -1,6 +1,6 @@
 # Qualitic Maturity Model
 
-Qualitic Maturity model is consists of three parts.
+The Qualitic Maturity model consists of three parts.
 
 + Baseline CI Pipeline
 + Maturity Items
