@@ -4,7 +4,7 @@ plugins:
 
 remote_theme: chrisrhymes/bulma-clean-theme@v.0.12
 
-title: ""
+title: "A new approach to measure, guide, and empower the dev team."
 defaults:
   -
     scope:
