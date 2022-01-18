@@ -2,7 +2,7 @@ plugins:
   - jekyll-relative-links
   - jekyll-sitemap
 
-remote_theme: chrisrhymes/bulma-clean-theme@72f7a305a1914c583bdcb9968d0051aa980b7aa0
+remote_theme: chrisrhymes/bulma-clean-theme@v.0.12
 
 title: "A new approach to measure, guide, and empower the dev team."
 defaults:
