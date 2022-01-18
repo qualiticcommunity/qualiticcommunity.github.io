@@ -5,6 +5,9 @@ plugins:
 remote_theme: chrisrhymes/bulma-clean-theme@v.0.12
 
 title: "A new approach to measure, guide, and empower the dev team."
+description: >
+  Qualitic Maturity Model is about developing successful quality software respecting a set of clear rules. 
+  It is a new approach to measure, guide, and empower the quality of the product development team.
 defaults:
   -
     scope:
