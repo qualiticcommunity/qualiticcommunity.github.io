@@ -5,6 +5,9 @@ plugins:
 remote_theme: chrisrhymes/bulma-clean-theme@72f7a305a1914c583bdcb9968d0051aa980b7aa0
 
 title: ""
+description: >
+  Qualitic Maturity Model is about developing successful quality software respecting a set of clear rules. 
+  It is a new approach to measure, guide, and empower the quality of the product development team.
 defaults:
   -
     scope:
