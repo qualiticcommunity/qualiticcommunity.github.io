@@ -1,6 +1,8 @@
 # Catalog of Maturity Items
 
-Maturity items are in 4 categories. You can see all of the items below.
+Maturity items are building blocks of Qualitic maturity model. Each item demonstrates a specific side of software development quality.  
+Below is the list of maturity items, described in four categories, each of which focuses on different attributes of quality software development.  
+There are a few _possible implementations_ suggested for some items. Note that they are not the only solutions to achieve an item (not even necessarily the best ones), but just a clue to achieve an item if there is no initial idea about it.  
 
 ## Test Items
 
