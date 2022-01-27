@@ -2,7 +2,7 @@ plugins:
   - jekyll-relative-links
   - jekyll-sitemap
 
-remote_theme: chrisrhymes/bulma-clean-theme@v.0.12
+remote_theme: chrisrhymes/bulma-clean-theme@v0.12
 
 title: "A new approach to achieve quality"
 description: Qualitic Maturity Model is a new approach to measure, guide, and empower the quality of the product development team, with respect to a set of clear rules.
