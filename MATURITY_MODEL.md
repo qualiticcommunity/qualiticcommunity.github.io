@@ -8,7 +8,7 @@ It's also assumed that the pipeline has at least five (abstract) steps, as menti
 #### 1. Commit Stage
 It's the first time a developer introduces a new change to the source code repository. There can be some automatic checks validating the change.  
 Generally, commit stage ensures that a change is worth reviewing by a human-being; since many trivial issues (like compile error) can be caught by machine, instead of a developer.  
-Although, many non-trivial issues also can be checked automatically (with a more complexity, off course), it's recommended to keep this stage fast enough to deliver early feedback to the developer, more rapidly.
+Although, many non-trivial issues also can be checked automatically (with a more complexity, of course), it's recommended to keep this stage fast enough to deliver early feedback to the developer, more rapidly.
 > One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.  
 <small>_Elbert Hubbard, American writer and philosopher_</small>
 
