@@ -17,7 +17,7 @@ Here are the maturity levels. This is what we use as maturity levels and you may
 | :--               | :--             |
 |**[T006](catalog/test/T006.md)**| Incremental Commit Stage Test Coverage > 50%. |
 |**[T002](catalog/test/T002.md)**| Commit Stage Test Coverage > 10% (At Least Daily). |
-|**[T007](catalog/test/T007.md)**| Classify Tests as Commit, Acceptance and (Performance).|
+|**[T007](catalog/test/T007.md)**| Classify Tests as Commit, Acceptance, and Performance. |
 |**[T011](catalog/test/T011.md)**| Acceptance Tests For at Least One Feature Upon Main Use Cases (Fully Automated in CI Script). |
 |**[B002](catalog/build_ci/B002.md)**| Enforcing a Specific Code Style for Main Programming Languages. |
 |**[B004](catalog/build_ci/B004.md)**| Prevent Compiler Warning. |
