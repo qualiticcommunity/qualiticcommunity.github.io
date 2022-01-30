@@ -12,5 +12,5 @@ defaults:
       path: ""
     values:
       menubar_toc: true
-      hero_image: /assets/img/hero-background.webp
+      hero_image: https://media.githubusercontent.com/media/qualiticcommunity/qualiticcommunity.github.io/master/assets/img/hero-background.webp
       title: Qualitic Maturity Model
