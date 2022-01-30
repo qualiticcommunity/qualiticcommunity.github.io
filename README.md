@@ -22,7 +22,7 @@ On 12 November 2019, the first conference of Qualitic was held in Tehran, announ
 Since then Sahab has actively used QMM and tried effectively to enrich it - through adding, removing, and editing its items.  
 
 ## When not to use QMM?
-Although it's ideal for a product to be developed at highest level of quality, there's no general advice for all products to progress at a specific level; as there are some other factors that affect what level of quality a product needs.  
+Although it's ideal for a product to be developed at the highest level of quality, there's no general advice for all products to progress at a specific level; as there are some other factors that affect what level of quality a product needs.  
 **Product lifetime** is a key indicator that guides how much effort pays for achieving a specific level of quality. As a harsh example, it's unwise to set up an automated data migration (a maturity item at level 3 of QMM) for a one-week programming assignment project!  
 On the other hand, limited time is definitely **not** an appropriate excuse for ignoring quality practices.  
 > If you don't have time to do it right,  
@@ -38,4 +38,4 @@ So contributions of any kind to the maturity model - through opening issues, pul
 Feel free to let us know how your experience using this maturity model was, and what can make it better for your team/organization.
 
 ## Getting started
-Qualitic Maturity Model is described in details [here](/MATURITY_MODEL.html).
+Qualitic Maturity Model is described in detail [here](/MATURITY_MODEL.html).

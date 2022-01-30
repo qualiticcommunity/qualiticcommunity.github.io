@@ -1,19 +1,19 @@
-# QMM, in details
+# QMM, in detail
 Qualitic Maturity Model consists of 5 levels; the first level introduces the initial steps to get in the picture of quality; whereas level 5 indicates the ultimate state of quality.
 
 ## Baseline CI Pipeline
 Qualitic assumes that the product has a _[Continuous Integration](https://www.atlassian.com/continuous-delivery/continuous-integration)_ pipeline, facilitating its maintenance and development process.  
-It's also assumed that the pipeline has at least five (abstract) steps, as mentioned in the next sections. In each item, there is a field named `Applied Stage` that helps where that item best fits to be cared.
+It's also assumed that the pipeline has at least five (abstract) steps, as mentioned in the next sections. In each item, there is a field named `Applied Stage` that helps where that item best fits to care.
 
 #### 1. Commit Stage
 It's the first time a developer introduces a new change to the source code repository. There can be some automatic checks validating the change.  
-Generally, commit stage ensures that a change is worth reviewing by a human-being; since many trivial issues (like compile error) can be caught by machine, instead of a developer.  
-Although, many non-trivial issues also can be checked automatically (with a more complexity, of course), it's recommended to keep this stage fast enough to deliver early feedback to the developer, more rapidly.
+Generally, the commit stage ensures that a change is worth reviewing by a human-being; since many trivial issues (like compile error) can be caught by a machine, instead of a developer.  
+Although many non-trivial issues also can be checked automatically (with more complexity, of course), it's recommended to keep this stage fast enough to deliver early feedback to the developer, more rapidly.
 > One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.  
 <small>_Elbert Hubbard, American writer and philosopher_</small>
 
 #### 2. Code Review
-As mentioned above, not all issues of a suggested change are detected by the commit stage and hence it needs a manual review - usually by a co-worker.
+As mentioned above, not all issues of a suggested change are detected by the commit stage, and hence it needs a manual review - usually by a co-worker.
 
 #### 3. Acceptance Test Stage
 When the change has been checked against trivial/fast-discoverable issues, reviewed by another developer, and merged into the source code repository (mainline), it's time to perform [acceptance tests](https://www.agilealliance.org/glossary/acceptance/) in order to be more confident about the recently-merged change. It ensures end-user functional requirements are satisfied, after all. The _Acceptance Test Stage_ is a place for this activity.
@@ -24,7 +24,7 @@ This stage is the place for running non-functional tests, specifically [performa
 Performance and Acceptance tests can also run in parallel in a single stage.
 
 #### 5. Staging
-The final stage, before releasing the change into production, is named _Staging_. Here the (recently-changed) product is deployed to a production-like environment (with the exact architecture, infrastructure, etc.). It helps identify even more issues missed in the previous stages. Further more, it's a kind of test for the production deployment procedure itself.
+The final stage, before releasing the change into production, is named _Staging_. Here the (recently-changed) product is deployed to a production-like environment (with the exact architecture, infrastructure, etc.). It helps identify even more issues missed in the previous stages. Furthermore, it's a kind of test for the production deployment procedure itself.
 
 
 ## Categories
@@ -41,7 +41,7 @@ This category demonstrates concerns about the build, packaging, compatibility, v
 Preventing compiler warning, unified code style, and static code analysis are examples of items in this category.
 
 ### Delivery
-This category is about how the product is delivered to the end users. Currently, there are four metrics for it that are described below.
+This category is about how the product is delivered to the end-users. Currently, there are four metrics for it that are described below.
 
 ##### Deployment Frequency
 How often does your organization deploy code?
