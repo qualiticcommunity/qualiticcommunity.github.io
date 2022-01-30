@@ -1,4 +1,6 @@
 Qualitic
+QMM
+CMMI
 config
 configs
 VC
@@ -20,3 +22,8 @@ qTest
 PractiTest
 TestLink
 dockerize
+discoverable
+Jez
+Sahab
+A'van
+Hamravesh
