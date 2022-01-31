@@ -4,6 +4,7 @@
 | :--               | :--      |
 |**Title**          | |
 |**Description**    | |
+|**Maturity Level** | |
 |**Possible Implementations** | |
 |**Evaluation**     | |
 |**Applied stage**  | |
