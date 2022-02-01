@@ -1,5 +1,7 @@
 # QMM, in detail
-Qualitic Maturity Model consists of 5 levels; the first level introduces the initial steps to get in the picture of quality; whereas level 5 indicates the ultimate state of quality.
+Qualitic Maturity Model consists of [5 levels](/levels); the first level introduces the initial steps to get in the picture of quality; whereas level 5 indicates the ultimate state of quality.  
+Each level includes a list of maturity items, grouped together. [Maturity items](/items-catalog) are the building blocks of QMM; each of which indicates a specific hint about what should be performed, for the sake of quality.
+A product is considered to be developed at level _N_ of quality, if and only if all items from level 1 to _N_ are achieved.  
 
 ## Baseline CI Pipeline
 Qualitic assumes that the product has a _[Continuous Integration](https://www.atlassian.com/continuous-delivery/continuous-integration)_ pipeline, facilitating its maintenance and development process.  
