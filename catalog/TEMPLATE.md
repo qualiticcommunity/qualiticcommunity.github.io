@@ -7,4 +7,3 @@
 | **Maturity Level** | |
 | **Possible Implementations** | |
 | **Evaluation**     | |
-| **Applied stage**  | |
