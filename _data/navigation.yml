@@ -1,15 +1,17 @@
-- name: Maturity Model
-  link: /MATURITY_MODEL.html
+- name: QMM in detail
+  link: /QMM-in-detail
 - name: Levels of Maturity
-  link: /LEVELS.html
+  link: /levels
   dropdown:
     - name: Level 1
-      link: /LEVELS.html#level-1
+      link: /levels#level-1
     - name: Level 2
-      link: /LEVELS.html#level-2
+      link: /levels#level-2
     - name: Level 3
-      link: /LEVELS.html#level-3
+      link: /levels#level-3
     - name: Level 4
-      link: /LEVELS.html#level-4
+      link: /levels#level-4
     - name: Level 5
-      link: /LEVELS.html#level-5
+      link: /levels#level-5
+- name: Items Catalog
+  link: /items-catalog

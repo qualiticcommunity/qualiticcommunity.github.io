@@ -1,14 +1,14 @@
 # Qualitic Maturity Model
 Qualitic Maturity Model (QMM) is a guiding principle to develop successful and quality software, following a set of clear and pragmatic rules.  
 It is a new approach to measure, guide, and empower the quality of the product development process.  
-To jump ahead and get started with QMM, see [here](/MATURITY_MODEL.html)
+To jump ahead and get started with QMM, see [here](/QMM-in-detail)
 
 ## What is a maturity model?
 _Maturity Model_ is a means to help software engineers improve their product quality, through continuous improvement of the development process.  
 > Quality can't be added in the end, it is a matter of process.  
 
 While there exist other models helping with maturity in business areas and processes (like [CMMI](https://cmmiinstitute.com/)), Qualitic maturity model mainly focuses on the technical side of product development. i.e., what is the quality meant to be, when we strive for a high-quality product, regardless of what is the product itself, how it can satisfy the user requirements, how much it costs, etc.  
-There are also some other models targeting quality or development process, like _[Google Test Certified ladder](https://mike-bland.com/2011/10/18/test-certified.html)_ or _Maturity Model_ at the end of _[Continuous Delivery](https://martinfowler.com/books/continuousDelivery.html)_ book by _Jez Humble_.  
+There are also some other models targeting quality or development process, like _[Google Test Certified ladder](https://mike-bland.com/2011/10/18/test-certified)_ or _Maturity Model_ at the end of _[Continuous Delivery](https://martinfowler.com/books/continuousDelivery)_ book by _Jez Humble_.  
 While they have helped enrich the current maturity model, the biggest difference between QMM and other maturity models is that it tries to be more pragmatic, by demonstrating the technical details.  
 
 ## Why QMM?
@@ -38,4 +38,4 @@ So contributions of any kind to the maturity model - through opening issues, pul
 Feel free to let us know how your experience using this maturity model was, and what can make it better for your team/organization.
 
 ## Getting started
-Qualitic Maturity Model is described in detail [here](/MATURITY_MODEL.html).
+Qualitic Maturity Model is described in detail [here](/QMM-in-detail).
