@@ -19,8 +19,8 @@ As mentioned above, not all issues of a suggested change are detected by the com
 When the change has been checked against trivial/fast-discoverable issues, reviewed by another developer, and merged into the source code repository (mainline), it's time to perform [acceptance tests](https://www.agilealliance.org/glossary/acceptance/) in order to be more confident about the recently-merged change. It ensures end-user functional requirements are satisfied, after all. The _Acceptance Test Stage_ is a place for this activity.
 
 ### 4. Performance Test Stage
-Although most user requirements are of functional type, usually there are also some [non-functional](https://www.guru99.com/non-functional-requirement-type-example.html) ones, even if not declared formally. As an example, a simple phone book application is supposed to save a new phone number in a timely manner, even if it's not specified anywhere. (i.e. no one waits for an hour for a single phone number to be saved!)  
-This stage is the place for running non-functional tests, specifically [performance tests](https://www.guru99.com/performance-testing.html).  
+Although most user requirements are of functional type, usually there are also some [non-functional](https://www.guru99.com/non-functional-requirement-type-example) ones, even if not declared formally. As an example, a simple phone book application is supposed to save a new phone number in a timely manner, even if it's not specified anywhere. (i.e. no one waits for an hour for a single phone number to be saved!)  
+This stage is the place for running non-functional tests, specifically [performance tests](https://www.guru99.com/performance-testing).  
 Performance and Acceptance tests can also run in parallel in a single stage.
 
 ### 5. Staging
