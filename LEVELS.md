@@ -2,6 +2,7 @@
 Here are the maturity levels. This is what we use as maturity levels and you may change or reorder items in each level.
 
 ## Level 1
+
 | **Item**          | **Description** |
 | :--                | :--             |
 | **[T001](catalog/test/T001.md)** | Measure Test Coverage On Commit Stage. |
@@ -9,7 +10,10 @@ Here are the maturity levels. This is what we use as maturity levels and you may
 | **[B001](catalog/build_ci/B001.md)** | All CI/CD scripts are in VC (CI Config in Code). |
 | **[T016](catalog/test/T016.md)** | No Release with Red Tests. |
 
+---
+
 ## Level 2
+
 | **Item**          | **Description** |
 | :--                | :--             |
 | **[T006](catalog/test/T006.md)** | Incremental Commit Stage Test Coverage > 50%. |
@@ -25,7 +29,10 @@ Here are the maturity levels. This is what we use as maturity levels and you may
 | **[D009](catalog/delivery/D009.md)** | Time to Restore Service is Less Than One Month. |
 | **[D013](catalog/delivery/D013.md)** | Change Failure Rate Less Than 60 Percent. |
 
+---
+
 ## Level 3
+
 | **Item**          | **Description** |
 | :--                | :--             |
 | **[T003](catalog/test/T003.md)** | Commit Stage Test Coverage > 50%. |
@@ -42,7 +49,10 @@ Here are the maturity levels. This is what we use as maturity levels and you may
 | **[D014](catalog/delivery/D014.md)** | Change Failure Rate Is Less Than 45 Percent. |
 | **[E010](catalog/environment/E010.md)** | Same Process (scripts) To Deploy To Every Environment. |
 
+---
+
 ## Level 4
+
 | **Item**          | **Description** |
 | :--                | :--             |
 | **[T004](catalog/test/T004.md)** | Commit Stage Test Coverage > 60%. |
@@ -59,7 +69,10 @@ Here are the maturity levels. This is what we use as maturity levels and you may
 | **[D011](catalog/delivery/D011.md)** | Time To Restore Service Is Less Than One Day. |
 | **[D015](catalog/delivery/D015.md)** | Change Failure Rate Is Less Than 15 Percent. |
 
+---
+
 ## Level 5
+
 | **Item**          | **Description** |
 | :--               | :--             |
 | **[T015](catalog/test/T015.md)** | Requirement - Acceptance Test Mapping > 50%. |
