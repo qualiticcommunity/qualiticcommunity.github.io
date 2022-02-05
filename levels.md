@@ -6,7 +6,6 @@ Here are the maturity levels. This is what we use as maturity levels and you may
 | **Item**          | **Description** |
 | :--                | :--             |
 | **[T001](catalog/test/T001)** | Measure Test Coverage On Commit Stage. |
-| **[T005](catalog/test/T005)** | Incremental Commit Stage Test Coverage > 10%. |
 | **[B001](catalog/build_ci/B001)** | All CI/CD scripts are in VC (CI Config in Code). |
 | **[T016](catalog/test/T016)** | No Release with Red Tests. |
 
@@ -16,7 +15,6 @@ Here are the maturity levels. This is what we use as maturity levels and you may
 
 | **Item**          | **Description** |
 | :--                | :--             |
-| **[T006](catalog/test/T006)** | Incremental Commit Stage Test Coverage > 50%. |
 | **[T002](catalog/test/T002)** | Commit Stage Test Coverage > 10% (At Least Daily). |
 | **[T007](catalog/test/T007)** | Classify Tests as Commit, Acceptance, and Performance. |
 | **[T011](catalog/test/T011)** | Acceptance Tests For at Least One Feature Upon Main Use Cases (Fully Automated in CI Script). |

@@ -16,12 +16,6 @@ There are a few _possible implementations_ suggested for some items. Note that t
 {% include_relative catalog/test/T004.md %}
 ---
 
-{% include_relative catalog/test/T005.md %}
----
-
-{% include_relative catalog/test/T006.md %}
----
-
 {% include_relative catalog/test/T007.md %}
 ---
 
