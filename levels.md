@@ -1,5 +1,5 @@
 # Maturity Levels
-Here are the maturity levels. This is what we use as maturity levels and you may change or reorder items in each level.
+This is what we use as quality maturity levels.
 
 ## Level 1
 
