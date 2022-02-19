@@ -33,5 +33,5 @@ matrix:
             - open: "\\{\\:\\:"
               close: "\\}"
     sources:
-      - "**/*.md|!_site/**/*"
+      - "**/*.md|.github/ISSUE_TEMPLATE/*.yml|!_site/**/*"
     default_encoding: utf-8

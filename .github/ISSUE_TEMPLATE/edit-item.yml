@@ -1,0 +1,55 @@
+name: Edit an item specification
+description: Suggest a change in a maturity item title, decription, level, etc.
+labels:
+  - edit maturity item
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for introducing a change on QMM. Before filling the next fields, please review maturity items' [style rules](https://maturity.qualitic.ir/catalog/template).
+  - type: input
+    attributes:
+      label: Editing item
+      placeholder: e.g. T001
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Title
+      placeholder: Leave blank if this field need no changes.
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: Description
+      placeholder: Leave blank if this field need no changes.
+    validations:
+      required: false
+  - type: dropdown
+    attributes:
+      label: Maturity Level
+      description: The level you think best fits for this item. (Leave blank if this field need no changes.)
+      multiple: false
+      options:
+        - "Level 1"
+        - "Level 2"
+        - "Level 3"
+        - "Level 4"
+        - "Level 5"
+        - "Level 6 (New Level)"
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: Possible Implementations
+      description: Some clues about how to achieve this item.
+      placeholder: Leave blank if this field need no changes.
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: Evaluation
+      description: How to check if a product has been achieved such item.
+      placeholder: Leave blank if this field need no changes.
+    validations:
+      required: false

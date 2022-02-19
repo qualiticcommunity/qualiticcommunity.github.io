@@ -1,0 +1,38 @@
+name: Feedback
+description: Share how your experience was using QMM, or what is preventing to use it as a software quality maturity model.
+labels:
+  - feedback
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time giving feedback! It's so valuable for us.
+  - type: dropdown
+    attributes:
+      label: How did you find QMM?
+      multiple: false
+      options:
+        - Friends / Coworkers
+        - Social Media / Internet
+        - Other
+  - type: dropdown
+    attributes:
+      label: Are you using QMM for your product(s), currently?
+      multiple: false
+      options:
+        - "Yes"
+        - "No"
+  - type: dropdown
+    attributes:
+      label: How do you feel about QMM?
+      multiple: false
+      options:
+        - Perfect!
+        - Good but needs more improvements
+        - Ordinary
+        - Needs huge improvements / redesign
+        - Too weak and/or unusable
+  - type: textarea
+    attributes:
+      label: Feedback
+      description: Let us know more about your feedback.

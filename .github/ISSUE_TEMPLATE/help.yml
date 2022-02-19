@@ -1,0 +1,19 @@
+name: Get help
+description: Get help about QMM, its appliances, items' details, etc.
+labels:
+  - question
+body:
+  - type: input
+    id: item
+    attributes:
+      label: Related maturity item
+      description: If it's about a specific item, what is it?
+      placeholder: ex. T001
+    validations:
+      required: false
+  - type: textarea
+    id: body
+    attributes:
+      label: What's the problem?
+    validations:
+      required: true
