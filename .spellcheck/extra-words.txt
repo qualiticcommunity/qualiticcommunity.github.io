@@ -28,3 +28,9 @@ Sahab
 A'van
 Hamravesh
 UI
+precheck
+
+# Issue templates
+textarea
+dropdown
+checkboxes

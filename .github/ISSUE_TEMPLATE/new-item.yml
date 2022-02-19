@@ -5,7 +5,7 @@ labels:
 body:
   - type: checkboxes
     attributes:
-      label: Pre-Check
+      label: Precheck
       description: Check that current maturity items can't be modified/generalized to include your concern.
       options:
         - label: This item can not be defined below any of the current maturity items.

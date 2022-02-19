@@ -1,5 +1,5 @@
 name: Edit an item specification
-description: Suggest a change in a maturity item title, decription, level, etc.
+description: Suggest a change in a maturity item title, description, level, etc.
 labels:
   - edit maturity item
 body:
