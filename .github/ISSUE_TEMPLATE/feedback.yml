@@ -1,5 +1,5 @@
 name: Feedback
-description: Share how your experience was using QMM, or what is preventing to use it as a software quality maturity model.
+description: Share how was your experience using QMM, or what is preventing you to use it as a software quality maturity model.
 labels:
   - feedback
 body:
