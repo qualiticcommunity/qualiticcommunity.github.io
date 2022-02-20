@@ -1,0 +1,17 @@
+name: Suggest removing an item
+description: If you think an item is not useful for almost no one, suggest removing it!
+labels:
+  - remove maturity item
+body:
+  - type: input
+    attributes:
+      label: Item to remove
+      placeholder: e.g. T001
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Why?
+      description: Why this item is not worth being in QMM?
+    validations:
+      required: true

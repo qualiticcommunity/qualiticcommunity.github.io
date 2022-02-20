@@ -1,0 +1,59 @@
+name: Suggest new item
+description: Suggest a new maturity item.
+labels:
+  - new maturity item
+body:
+  - type: checkboxes
+    attributes:
+      label: Precheck
+      description: Are you sure current maturity items can't be modified/generalized to include your concern?
+      options:
+        - label: This item can not be defined below any of the current maturity items.
+          required: true
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for proposing a new maturity item. Before  going any further, please review maturity items' [style rules](https://maturity.qualitic.ir/catalog/template).
+  - type: input
+    attributes:
+      label: Title
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Description
+    validations:
+      required: true
+  - type: dropdown
+    attributes:
+      label: Maturity Level
+      description: The level you think best fits for this item.
+      multiple: false
+      options:
+        - "Level 1"
+        - "Level 2"
+        - "Level 3"
+        - "Level 4"
+        - "Level 5"
+        - "Level 6 (New Level)"
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: Possible Implementations
+      description: Some clues about how to achieve this item.
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: Evaluation
+      description: How to check if a product has been achieved such item.
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: Why this item is worth adding to QMM?
+      description: Please, briefly explain why you think it's good to have such an item in QMM?
+      placeholder: e.g. It's been followed for a while in our product and resulted in a better maintenance...
+    validations:
+      required: true
