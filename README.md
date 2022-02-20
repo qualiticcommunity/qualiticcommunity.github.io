@@ -34,7 +34,8 @@ A very common misconception is that quality takes time and money. Actually, anyt
 
 ## Maintenance and Contribution
 QMM is an [open-source project](https://github.com/qualiticcommunity/qualiticcommunity.github.io) and its maintainers highly try to avoid any exercise of authority, while keeping it usable, maintainable, and practical.  
-So contributions of any kind to the maturity model - through opening issues, pull requests, or contacting us any other way - are appreciated.  
+
+Feel free to suggest any changes to Qualitic Maturity Model, by opening *pull requests* or [reporting issues](https://github.com/qualiticcommunity/qualiticcommunity.github.io/issues/new/choose).
 
 If you like QMM, please support us by sharing it. And let us know what can make it better for your team/organization.  
 <a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fmaturity.qualitic.ir" target="_blank">
