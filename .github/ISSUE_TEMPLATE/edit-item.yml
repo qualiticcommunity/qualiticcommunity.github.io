@@ -50,6 +50,6 @@ body:
     attributes:
       label: Evaluation
       description: How to check if a product achieved this item.
-      placeholder: Leave blank if this field need no changes.
+      placeholder: Leave it blank if this field needs no change.
     validations:
       required: false
