@@ -1,0 +1,32 @@
+---
+---
+
+// Bulma clean theme default SCSS file.
+
+.social-share-icon {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+}
+
+.linkedin-icon {
+    @extend .social-share-icon;
+    content: url("https://static.addtoany.com/buttons/linkedin.svg");
+    background-color: #0077b5;
+}
+
+.twitter-icon {
+    @extend .social-share-icon;
+    content: url("https://static.addtoany.com/buttons/twitter.svg");
+    background-color: #00acee;
+}
+
+.reddit-icon {
+    @extend .social-share-icon;
+    content: url("https://static.addtoany.com/buttons/reddit.svg");
+    background-color: #ff4500;
+}
+
+// Import Main CSS file from theme
+@import "main";
+
