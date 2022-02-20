@@ -38,25 +38,13 @@ So contributions of any kind to the maturity model - through opening issues, pul
 
 If you like QMM, please support us by sharing it. And let us know what can make it better for your team/organization.  
 <a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fmaturity.qualitic.ir" target="_blank">
-    <img src="https://static.addtoany.com/buttons/linkedin.svg"
-         width="32"
-         height="32"
-         style="background-color:#0077b5"
-         alt="Share on LinkedIn">
+    <img class="linkedin-icon" alt="Share on LinkedIn" />
 </a>
 <a href="https://twitter.com/intent/tweet?text=%20https%3A%2F%2Fmaturity.qualitic.ir" target="_blank">
-    <img src="https://static.addtoany.com/buttons/twitter.svg"
-         width="32"
-         height="32"
-         style="background-color:#00acee"
-         alt="Tweet">
+    <img class="twitter-icon" alt="Tweet" />
 </a>
 <a href="https://www.reddit.com/submit?url=https%3A%2F%2Fmaturity.qualitic.ir&title=Qualitic%20Maturity%20Model&text=Qualitic%20Maturity%20Model%20is%20a%20new%20approach%20to%20measure%2C%20guide%2C%20and%20empower%20the%20quality%20of%20the%20product%20development%20team%2C%20with%20respect%20to%20a%20set%20of%20clear%20rules." target="_blank">
-    <img src="https://static.addtoany.com/buttons/reddit.svg"
-         width="32"
-         height="32"
-         style="background-color:#ff4500"
-         alt="Post on Reddit">
+    <img class="reddit-icon" alt="Post on Reddit" />
 </a>
 
 ## Getting started
