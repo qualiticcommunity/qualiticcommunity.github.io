@@ -24,7 +24,7 @@ body:
         - "No"
   - type: dropdown
     attributes:
-      label: How do you feel about QMM?
+      label: QMM is ...
       multiple: false
       options:
         - Perfect!
