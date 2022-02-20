@@ -1,5 +1,5 @@
 name: Get help
-description: Get help about QMM, its appliances, items' details, etc.
+description: Get help about QMM, its application(s), items' details, etc.
 labels:
   - question
 body:
