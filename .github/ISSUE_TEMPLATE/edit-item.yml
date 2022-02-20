@@ -16,7 +16,7 @@ body:
   - type: input
     attributes:
       label: Title
-      placeholder: Leave blank if this field need no changes.
+      placeholder: Leave it blank if this field needs no change.
     validations:
       required: false
   - type: textarea
