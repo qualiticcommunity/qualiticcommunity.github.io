@@ -13,7 +13,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for introducing a new maturity item. Before filling the next fields, please review maturity items' [style rules](https://maturity.qualitic.ir/catalog/template).
+        Thanks for proposing a new maturity item. Before  going any further, please review maturity items' [style rules](https://maturity.qualitic.ir/catalog/template).
   - type: input
     attributes:
       label: Title
