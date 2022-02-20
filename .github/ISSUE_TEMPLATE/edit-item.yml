@@ -49,7 +49,7 @@ body:
   - type: textarea
     attributes:
       label: Evaluation
-      description: How to check if a product has been achieved such item.
+      description: How to check if a product achieved this item.
       placeholder: Leave blank if this field need no changes.
     validations:
       required: false
