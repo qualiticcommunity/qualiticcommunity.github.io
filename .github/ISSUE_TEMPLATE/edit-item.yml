@@ -28,7 +28,7 @@ body:
   - type: dropdown
     attributes:
       label: Maturity Level
-      description: The level you think best fits for this item. (Leave blank if this field need no changes.)
+      description: The level you think best fits for this item. (Leave it blank if this field needs no change.)
       multiple: false
       options:
         - "Level 1"
