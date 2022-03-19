@@ -1,6 +1,6 @@
-# Requirement Acceptance Test Mapping Example
+# Requirement Acceptance Test Mapping
 
-Tracking test-requirements mapping is needed so you can see weather a requirement is tested or not. There exists many different ways of describing this relation. You can use [traditional test plans](http://softwaretestingfundamentals.com/test-plan/) or new approaches like [Google 10 minute test plans](https://testing.googleblog.com/2011/09/10-minute-test-plan). Also you can manage this relation using test management applications tools like [practitest](https://www.practitest.com/), [qtest](https://www.tricentis.com/products/agile-dev-testing-qtest/) or [TestLink](http://testlink.org/).
+Tracking test-requirements mapping is needed so you can see wether a requirement is tested or not. There exists many different ways of describing this relation. You can use [traditional test plans](http://softwaretestingfundamentals.com/test-plan/) or new approaches like [Google 10 minute test plans](https://testing.googleblog.com/2011/09/10-minute-test-plan). Also you can manage this relation using test management applications tools like [practitest](https://www.practitest.com/), [qtest](https://www.tricentis.com/products/agile-dev-testing-qtest/) or [TestLink](http://testlink.org/).
 
 Generally, the following definitions are important:
 - The set of **all requirements** is defined based on the requirements which already has been developed by the team.
