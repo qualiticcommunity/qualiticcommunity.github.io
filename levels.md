@@ -35,7 +35,6 @@ This is what we use as quality maturity levels.
 | :--               | :--             |
 | **[T003](catalog/test/T003)** | Commit stage test coverage > 20% |
 | **[B005](catalog/build_ci/B005)** | Available analysis tools on new code are actively used, as submit gate (50% sonar-way, zero issue, incremental) |
-| **[T012](catalog/test/T012)** | There are acceptance tests for each new feature |
 | **[T013](catalog/test/T013)** | "Requirement - Acceptance Test" mapping coverage > 5% |
 | **[E002](catalog/environment/E002)** | Automated application deployment from scratch |
 | **[E003](catalog/environment/E003)** | Automated application upgrade |
